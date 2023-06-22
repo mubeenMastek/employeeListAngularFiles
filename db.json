@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "mubeen",
+      "lastName": "patel",
+      "email": "mubeen@gmail.com",
+      "dob": "2023-06-11T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "mastek",
+      "experience": 5,
+      "package": 34,
+      "id": 1
+    },
+    {
+      "firstName": "wasim",
+      "lastName": "khan",
+      "email": "dksdg@gmail.com",
+      "dob": "2023-06-21T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "dfadf",
+      "experience": 34,
+      "package": 20,
+      "id": 4
+    },
+    {
+      "firstName": "suraj",
+      "lastName": "singh",
+      "email": "suraj@gmail.com",
+      "dob": "2023-06-22T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "mastek",
+      "experience": 5,
+      "package": 13,
+      "id": 5
+    },
+    {
+      "firstName": "mohsin",
+      "lastName": "mukagam",
+      "email": "suhail.gmail.com",
+      "dob": "2023-06-22T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "drafting",
+      "experience": 6,
+      "package": 10,
+      "id": 6
+    },
+    {
+      "firstName": "suhel",
+      "lastName": "sundar",
+      "email": "suhail.gmail.com",
+      "dob": "2023-06-22T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "drafting",
+      "experience": 6,
+      "package": 10,
+      "id": 7
+    },
+    {
+      "firstName": "Tabisj",
+      "lastName": "sulaiman",
+      "email": "suhail.gmail.com",
+      "dob": "2023-06-22T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "drafting",
+      "experience": 6,
+      "package": 10,
+      "id": 8
+    },
+    {
+      "firstName": "Gulam",
+      "lastName": "Nabi",
+      "email": "suhail.gmail.com",
+      "dob": "2023-06-22T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "drafting",
+      "experience": 6,
+      "package": 10,
+      "id": 9
+    },
+    {
+      "firstName": "michael",
+      "lastName": "jackson",
+      "email": "michael@gmail.com",
+      "dob": "2023-06-22T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "singer",
+      "experience": 5,
+      "package": 45,
+      "id": 10
+    }
+  ]
+}
